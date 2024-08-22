@@ -1,0 +1,68 @@
+Fonseka et al. 963
+Dimitrov DV (2016) Medical internet of things and big data in healthcare. to-predict-thats-why-some-experts-are-turning-to-machines-for-
+Healthcare Informatics Research 22: 156–163. help/?noredirect=on&utm_term=.0db288d8145b (accessed 6 April 
+Du J, Zhang Y, Luo J, et al. (2018) Extracting psychiatric stressors for suicide 2018).
+from social media using deep learning. BMC Medical Informatics and Jenkins AL, Singer J, Conner BT, et al. (2014) Risk for suicidal ideation and 
+Decision Making 18(Suppl 2): 43. DOI: 10.1186/s12911-018-0632-8 attempt among a primary care sample of adolescents engaging in non-
+Eagan A and Matarazzo B (2018) REACH VET: Applying predictive suicidal self-injury. Suicide and Life-Threatening Behavior 44: 616–628.
+analytics to clinical practice. Available at: www.hsrd.research. Jordan P, Shedden-Mora MC and Lowe B (2018) Predicting suicidal idea-
+va.gov/for_researchers/cyber_seminars/archives/video_archive. tion in primary care: An approach to identify easily assessable key 
+cfm?SessionID=3527 (accessed 21 February 2019). variables. General Hospital Psychiatry 51: 106–111.
+Erdman HP, Klein MH and Greist JH (1985) Direct patient computer inter- Just MA, Pan L, Cherkassky VL, et al. (2017) Machine learning of neural 
+viewing. Journal of Consulting and Clinical Psychology 53: 760. representations of suicide and emotion concepts identifies suicidal 
+Etehad M (2018) Mental health experts concerned about ‘suicide conta- youth. Nature Human Behaviour 1: 911–919.
+gion’ after deaths of Anthony Bourdain and Kate Spade. Available Kalinin VV and Polyanskiy DA (2005) Gender and suicidality prediction 
+at: https://www.latimes.com/local/lanow/la-me-ln-suicide-contagion- in epilepsy. Epilepsy & Behavior 7: 657–663.
+20180608-story.html (accessed 20 February 2019). Kavuluru R, Williams AG, Ramos-Morales M, et al. (2016) Classification 
+Fahey RA, Matsubayashi T and Ueda M (2018) Tracking the Werther of helpful comments on online suicide watch forums. ACM 
+effect on social media: Emotional responses to prominent suicide Bioinformatics, Computational Biology, and Health Informatics 
+deaths on twitter and subsequent increases in suicide. Social Science 2016: 32–40.
+and Medicine 219: 19–29. Kessler RC, Stein MB, Petukhova MV, et al. (2017) Predicting suicides 
+Fernandez-Arteaga V, Tovilla-Zarate CA, Fresan A, et al. (2016) after outpatient mental health visits in the army study to assess risk 
+Association between completed suicide and environmental tempera- and resilience in servicemembers (Army STARRS). Molecular 
+ture in a Mexican population, using the knowledge discovery in data- Psychiatry 22: 544–551.
+base approach. Comput Methods Programs Biomed 135: 219–224. Kessler RC, Warner CH, Ivany C, et al. (2015) Predicting suicides after 
+Ferrari AJ, Norman RE, Freedman G, et al. (2014) The burden attribut- psychiatric hospitalization in US Army soldiers: The army study to 
+able to mental and substance use disorders as risk factors for suicide: assess risk and resilience in servicemembers (Army STARRS). JAMA 
+Findings from the Global burden of disease study 2010. PLoS ONE Psychiatry 72: 49–57.
+9: e91936. Kleinman A (2015) Facebook adds new feature for suicide preven-
+Fitzpatrick KK, Darcy A and Vierhile M (2017) Delivering cognitive tion. Available at: www.huffingtonpost.ca/entry/facebook-suicide-
+behavior therapy to young adults with symptoms of depression and prevention_n_6754106 (accessed 6 April 2018).
+anxiety using a fully automated conversational agent (Woebot): A ran- Lachmar EM, Wittenborn AK, Bogen KW, et al. (2017) 
+domized controlled trial. JMIR Mental Health 4: e19. #MyDepressionLooksLike: Examining public discourse about 
+Foster A, Chaudhary N, Murphy J, et al. (2015) The use of simulation to depression on Twitter. JMIR Mental Health 4: e43.
+teach suicide risk assessment to health profession trainees-rationale, Larsen ME, Boonstra TW, Batterham PJ, et al. (2015) We feel: Mapping 
+methodology, and a proof of concept demonstration with a virtual emotion on Twitter. IEEE Journal of Biomedical and Health 
+patient. Academic Psychiatry 39: 620–629. Informatics 19: 1246–1252.
+Franklin JC, Ribeiro JD, Fox KR, et al. (2017) Risk factors for suicidal Lewis SP, Heath NL, St Denis JM, et al. (2011) The scope of nonsuicidal 
+thoughts and behaviors: A meta-analysis of 50 years of research. self-injury on YouTube. Pediatrics 127: e552–e557.
+Psychological Bulletin 143: 187–232. Liu Y, Sareen J, Bolton JM, et al. (2016) Development and validation 
+Gradus JL, King MW, Galatzer-Levy I, et al. (2017) Gender differences of a risk prediction algorithm for the recurrence of suicidal idea-
+in machine learning models of trauma and suicidal ideation in vet- tion among general population with low mood. Journal of Affective 
+erans of the Iraq and Afghanistan wars. Journal of Traumatic Stress Disorders 193: 11–17.
+30: 362–371. Lucas GM, Gratch J, King A, et al. (2014) It’s only a computer: Virtual 
+Gray R (2015) Google apologizes after photos app tags black couple as humans increase willingness to disclose. Computers in Human 
+Gorillas: Fault in image recognition software mislabeled picture. Behavior 37: 94–100.
+Available at: www.dailymail.co.uk/sciencetech/article-3145887/Google- Luoma JB, Martin CE and Pearson JL (2002) Contact with mental health 
+apologises-Photos-app-tags-black-people-gorillas-Fault-image- and primary care providers before suicide: A review of the evidence. 
+recognition-software-mislabelled-picture.html (accessed 6 April 2018). The American Journal of Psychiatry 159: 909–916.
+Gregory JM, Sukhera J and Taylor-Gates M (2017) Integrating smart- McCoy TH Jr, Castro VM, Roberson AM, et al. (2016) Improving pre-
+phone technology at the time of discharge from a child and adolescent diction of suicide and accidental death after discharge from general 
+inpatient psychiatry unit. Journal of the Canadian Academy of Child hospitals with natural language processing. JAMA Psychiatry 73: 
+and Adolescent Psychiatry 26: 45–50. 1064–1071.
+Haerian K, Salmasian H and Friedman C (2012) Methods for identify- McManus K, Mallory EK, Goldfeder RL, et al. (2015) Mining twit-
+ing suicide or suicidal ideation in EHRs. AMIA Annual Symposium ter data to improve detection of schizophrenia. AMIA Summits on 
+Proceedings 2012: 1244–1253. Translational Science Proceedings 2015: 122–126.
+Hartmann C (2014) Google broke Canada’s privacy laws with targeted Ma-Kellams C, Or F, Baek JH, et al. (2016) Rethinking suicide surveillance: 
+health Ads, watchdog says. Available at: www.theglobeandmail.com/ Google search data and self-reported suicidality differentially estimate 
+technology/tech-news/google-broke-canadas-privacy-laws-with- completed suicide risk. Clinical Psychological Science 4: 480–484.
+targeted-ads-regulator-says/article16343346/ (accessed 6 April 2018). Mann JJ, Ellis SP, Waternaux CM, et al. (2008) Classification trees distin-
+Hettige NC, Nguyen TB, Yuan C, et al. (2017) Classification of suicide guish suicide attempters in major psychiatric disorders: A model of 
+attempters in schizophrenia using sociocultural and clinical features: clinical decision making. Journal of Clinical Psychiatry 69: 23–31.
+A machine learning approach. General Hospital Psychiatry 47: 20– Martinez-Miranda J (2017) Embodied conversational agents for the detec-
+28. tion and prevention of suicidal behaviour: Current applications and 
+Holley P (2017) Teenage suicide is extremely difficult to predict: open challenges. Journal of Medical Systems 41: 135.
+That’s why some experts are turning to machines for help. The Miguel EM, Chou T, Golik A, et al. (2017) Examining the scope and pat-
+Washington Post. Available at: www.washingtonpost.com/news/ terns of deliberate self-injurious cutting content in popular social 
+innovations/wp/2017/09/25/teenage-suicide-is-extremely-difficult- media. Depression and Anxiety 34: 786–793.
+Australian & New Zealand Journal of Psychiatry, 53(10)

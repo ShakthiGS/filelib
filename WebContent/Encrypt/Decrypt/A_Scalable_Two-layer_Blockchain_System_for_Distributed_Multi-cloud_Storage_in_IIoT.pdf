@@ -1,0 +1,89 @@
+This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/TII.2022.3179733, IEEE
+Transactions on Industrial Informatics
+9
+Through experiments, it can be seen that the PoSA consen-
+sus algorithm proposed in this paper has certain advantages
+in resource utilization compared with PoW and can obtain a
+higher QoS value compared with PBFT. With the improvement
+of the hardware, it can have better storage request processing
+capacity.
+VI. CONCLUSION
+In this paper, we propose a scalable two-layer blockchain
+system for distributed multi-cloud storage in IIoT. First, we
+(a) Time for storage allocation
+build a mathematical model of MOP for data storage allocation
+and solve it with NSGA-II. Then we introduce a novel
+consensus method that integrates the MOP problem into leader
+selection to guarantee that fair and balanced storage allocation
+strategies to be selected. We build a two-layer blockchain
+architecture in which the asynchronous consensus group is
+proposed to increase ef?ciency and ensure the reliability of
+the model. In addition, the design of asynchronous consensus
+group makes the model highly scalable. Through theoretical
+analysis, we demonstrate the proposed architecture is secure
+and ef?cient. Through simulations and experiments, it can be
+seen that the proposed architecture can greatly increase the
+(b) Results of QoS value gained
+QoS and scalability of blockchain-based multi-cloud storage
+Fig. 6. Comparison of PoSA and PBFT-based leader selection paradigm
+for IIoT.
+REFERENCES
+[1] M. Shen, J. Duan, L. Zhu, J. Zhang, X. Du and M. Guizani, “Blockchain-
+Based Incentives for Secure and Collaborative Data Sharing in Multiple
+Clouds,” IEEE Journal on Selected Areas in Communications, vol. 38,
+no. 6, pp. 1229-1241, 2020.
+[2] Z. Ning, S. Sun, X. Wang, L. Guo, S. Guo, X. Hu, B. Hu and R. Kwok,
+“Blockchain-enabled Intelligent Transportation Systems: A Distributed
+Crowdsensing Framework,” IEEE Transactions on Mobile Computing,
+doi:10.1109/TMC.2021.3079984, 2021.
+[3] D. Poola, S. K. Garg, R. Buyya, Y. Yang and K. Ramamohanarao, “Robust
+Scheduling of Scienti?c Work?ows with Deadline and Budget Constraints
+in Clouds,” in Proceedings of 2014 IEEE 28th international conference on
+advanced information networking and applications, 2014, pp. 858-865.
+[4] S. M. Danish, K. Zhang and H. Jacobsen, “BlockAIM: A Neu-
+ral Network-Based Intelligent Middleware For Large-Scale IoT Data
+Placement Decisions,” IEEE Transactions on Mobile Computing, doi:
+Fig. 7. TPS for different number of ANs with different number of requests
+10.1109/TMC.2021.3071576, 2021.
+in one block
+[5] J. Liu, H. Shen, H. Chi, H. Narman, Y. Yang, L. Cheng and W. Chung,
+“A Low-Cost Multi-Failure Resilient Replication Scheme for High-Data
+Availability in Cloud Storage,” IEEE/ACM Transactions on Networking,
+vol. 29, no. 4, pp. 1436-1451, 2020.
+a balanced and fair storage allocation strategy that has higher
+[6] N. Chen, T. Qiu, Z. Lu, and D. O. Wu, “An adaptive robustness evolution
+QoS value can be generated and the node that generates the
+algorithm with self-competition and Its 3D deployment for Internet of
+Things,” IEEE/ACM Transactions on Networking, vol. 30, no. 1, pp. 368-
+corresponding strategy can be selected as the leader.
+381, 2022.
+TPS is observed under the premise of different AN numbers
+[7] S. Misra, A. Mukherjee, A. Roy, N. Saurabh, Y. Rahulamathavan and
+and different block sizes. The maximum capacity to handle M. Rajarajan, “Blockchain at the Edge: Performance of Resource-
+Constrained IoT Networks,” IEEE Transactions on Parallel and Dis-
+storage requests under the preset simulation environment is
+tributed Systems, vol. 32, no. 1, pp. 174-183, 2021.
+estimated. We start the number of storage requests from 1000
+[8] Y. Wu, H. Dai, H. Wang, and K.R Choo “Blockchain-Based Privacy
+and increase it by 1000 each time in our simulation. The Preservation for 5G-Enabled Drone Communications,” IEEE Network,
+vol. 35, no. 1, pp. 50-56, 2021.
+experimental results are shown in Fig.7. As we can see, since
+[9] J. Wang, X. Feng, T. Xu, H. Ning and T. Qiu, “Blockchain-Based
+leader selection is PBFT-based in ACG, and the communi-
+Model for Nondeterministic Crowdsensing Strategy With Vehicular Team
+2
+cation complexity is O(n ), thus as the number of nodes Cooperation,” IEEE Internet Things Journal, vol. 7, no. 9, pp. 8090-8098,
+2020.
+inside ACG grows, the leader selection will take additional
+[10] H. Zhou, X. Ouyang, Z. Ren, J. Su, C. de Laat and Z. Zhao, “A
+time and results in a decrease in TPS. Besides, when the
+Blockchain based Witness Model for Trustworthy Cloud Service Level
+storage request number gets bigger (e.g. more than 7000 per Agreement Enforcement,” in Proceedings of IEEE INFOCOM 2019 -
+IEEE Conference on Computer Communications, 2019, pp. 1567-1575.
+epoch in this simulation), nodes in ACG will take more time
+[11] M. Xu, G. Feng, Y. Ren and X. Zhang, “On Cloud Storage Optimiza-
+in ?nding optimal storage allocation, and the system comes to
+tion of Blockchain With a Clustering-Based Genetic Algorithm,” IEEE
+a bottleneck in throughput due to communication complexity. Internet of Things Journal, vol. 7, no. 9, pp. 8547-8558, 2020.
+1551-3203 (c) 2021 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See http://www.ieee.org/publications_standards/publications/rights/index.html for more information.
+Authorized licensed use limited to: Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology. Downloaded on August 01,2022 at 10:01:43 UTC from IEEE Xplore.  Restrictions apply. 
