@@ -1,0 +1,132 @@
+ 
+This article has been accepted for inclusion in a future issue of this journal. Content is final as presented, with the exception of pagination. 
+12 IEEE TRANSACTIONS ON COMPUTATIONAL SOCIAL SYSTEMS 
+ 
+management. The assessment approaches presented have valu- [5] J. J. P. C. Rodrigues, S. S. Compte, and I. de la Torra Diez, 
+“Introduction,” in e-Health Systems. Amsterdam, The Netherlands: 
+able insights, but still have some issues in terms of security 
+Elsevier, 2016, pp. 15–34. [Online]. Available: https://linkinghub. 
+and implementation. 
+elsevier.com/retrieve/pii/B9781785480911500166 
+Table IV gives a comparison of our work with the most [6] M. A. Al-Shaher and N. J. Al-Khafaji, “E-healthcare system to monitor 
+vital signs,” in Proc. 9th Int. Conf. Electron., Comput. Artif. Intell. 
+notable existing solutions that use Blockchain in the healthcare 
+(ECAI), Jun. 2017, p. 5. 
+sector for securely sharing health information. The key metrics 
+[7] E. Andrès et al., “e-health: A promising solution for optimizing man- 
+comparison are, especially, related to the technologies used 
+agement of chronic diseases. Example of the national e-health project e-
+care based on an e-platform in the context of chronic heart failure,” Eur. 
+and the security level provided by each work. The compar- 
+Res. Telemed., vol. 4, no. 3, pp. 87–94, 2015. 
+ison starts with information about the Blockchain platform 
+[8] R. Roman, J. Zhou, and J. Lopez, “On the features and challenges of 
+exploited in each solution and the consensus mechanism used. 
+security and privacy in distributed Internet of Things,” Comput. Netw., 
+Then, it gives information about the storage system exploited vol. 57, no. 10, pp. 2266–2279, 2013. 
+[9] Y. Yang, L. Wu, G. Yin, L. Li, and H. Zhao, “A survey on security and 
+in each work and whether it considers the integration of 
+privacy issues in Internet-of-Things,” IEEE Internet Things J., vol. 4, 
+IoT devices in its solution or not. It also specifies the level 
+no. 5, pp. 1250–1258, Oct. 2017. 
+of security each architecture offers and whether or not it 
+[10] S. Nakamoto, “Bitcoin: A peer-to-peer electronic cash system,” Decen- 
+tralized Bus. Rev., 2008, p. 21260. 
+encrypts data before storing it. Only three works (see [33], 
+[11] C. A. Shoniregun, K. Dube, and F. Mtenzi, “Laws and standards for 
+[34], and [46]) that use the PoW consensus algorithm. The 
+secure e-Healthcare information,” in Electronic Healthcare Information 
+biggest issue with this mechanism is that the validation process 
+Security (Advances in Information Security), vol. 53, S. Jajodia, Ed. 
+Boston, MA, USA: Springer, 2010, pp. 59–100. [Online]. Available: 
+consumes a lot of energy. In addition, it might also be 
+http://link.springer.com/10.1007/978-0-387-84919-5_3 
+considered slow when it comes to transaction speed. In terms 
+[12] U.S.   Department   of   Health   &   Human   Services   Office   for 
+of data storage, many works used a centralized database to 
+Civil Rights. Privacy, Security, and Electronic Health Records. 
+store data (see [33], [35], [36], [38], [39]–[42], and [43]). This 
+Accessed: Jul. 21, 2021. [Online]. Available: https://www.hhs.gov/ 
+sites/default/files/ocr/privacy/hipaa/understanding/consumers/privacy- 
+kind of storage is vulnerable to several security issues such as 
+security-electronic-records.pdf 
+single point of failure, DDoS attacks, and to be tampered. 
+[13] Office for Civil Rights (OCR). (Oct. 2015). 187-What Does the HIPAA 
+Moreover, the comparison shows that our approach considers 
+Privacy Rule Do. [Online]. Available: https://www.hhs.gov/hipaa/for- 
+individuals/faq/187/what-does-the-hipaa-privacy-rule-do/index.html 
+all important security requirements, namely, confidentiality, 
+[14] (May 2008). The HIPAA Privacy Rule. [Online]. Available: https://www. 
+integrity, privacy, and access control, while other works focus 
+hhs.gov/hipaa/for-professionals/privacy/index.html 
+on just a few of these requirements. Furthermore, the table 
+[15] (Sep. 2009). The Security Rule. [Online]. Available: https://www.hhs. 
+displays some works that are still not yet implemented. gov/hipaa/for-professionals/security/index.html 
+[16] M. A. Sahi, H. Abbas, A. Derhab, and M. Orgun, “Privacy preservation 
+ 
+in e-Healthcare environments: State of the art and future directions,” 
+IX. CONCLUSION AND FUTURE WORK 
+IEEE Access, vol. 6, pp. 464–478, 2017. 
+[17] S. P. Amaraweera and M. N. Halgamuge, “Internet of Things in the 
+In this article, we present a secure healthcare system for 
+healthcare sector: Overview of security and privacy issues,” in Security, 
+remote patient monitoring. Our solution is completely decen- 
+Privacy and Trust in the IoT Environment. Cham, Switzerland: Springer, 
+tralized and based on the use of several emerging technologies, 
+2019, pp. 153–179, doi: 10.1007/978-3-030-18075-1_8. 
+[18] J. S. Kumar and D. R. Patel, “A survey on Internet of Things: 
+namely, the Internet of Things, Blockchain, smart contracts, 
+Security and   privacy   issues,”   Int.   J.   Comput.   Appl.,   vol.   90, 
+and IPFS. To ensure security and privacy, the proposed system 
+no. 11, pp. 20–26, Mar. 2014. [Online]. Available: http://research. 
+adopts Blockchain and proxy re-encryption. To solve the prob- 
+ijcaonline.org/volume90/number11/pxc3894454.pdf 
+lem of scalability, we propose to store only some condensed [19] (2019). Ethereum. Accessed: Dec. 10, 2019. [Online]. Available: 
+https://github.com/ethereum/wiki 
+information about the data and its hash in the Blockchain. 
+[20] A. M. Antonopoulos, M. Andreas, and G. Wood, Mastering Ethereum: 
+Health data are encrypted before being stored in an off-chain 
+Building Smart Contracts and Dapps. Sebastopol, CA, USA: O’Reilly 
+database that relies on a private IPFS. Using a scenario-based 
+Media, 2018. 
+[21] Protocol Labs. (2019). IPFS Powers the Distributed Web. Accessed: 
+diabetes management system, we empirically validate a secure 
+Dec. 20, 2019. [Online]. Available: https://ipfs.io/ 
+approach that provides remote monitoring for diabetic patients. 
+[22] Ethereum. (2019). Private Networks | Go   Ethereum.   Accessed: 
+The proposed system offers a high security level compared to 
+Dec. 19, 2019. [Online]. Available: https://geth.ethereum.org/docs/ 
+the state-of-the-art methods. Currently, we are developing a interface/private-network 
+[23] Ethereum. (2019). Go Ethereum. Accessed: Dec. 19, 2019. [Online]. 
+web version of our solution. In future work, we plan to add 
+Available: https://geth.ethereum.org/ 
+a fog layer between medical devices and the hospital in order 
+[24] International Diabetes Federation. (2019). IDF DIABETES ATLAS 
+to filter data before sending them to the hospital. It can also 
+Ninth Edition 2019. [Online]. Available: https://www.diabetesatlas. 
+org/en/resources/ 
+process data and provide the patient with real-time analysis. 
+[25] P. Piatkiewicz, “Hypoglycemia in elderly type 2  diabetes patients,” 
+ 
+Diabetes Manage., vol. 6, no. 3, p. 5, 2016. 
+REFERENCES 
+[26] (2019). Web3j. Accessed: Dec. 20, 2019. [Online]. Available: 
+https://github.com/web3j/web3j 
+[1] Physicians (Per 1,000 People)—Lower Middle Income | Data. 
+[27] (Dec. 2019). International Community. Accessed: Dec. 21, 2019. 
+Accessed: Mar. 19, 2022. [Online]. Available: https://data.worldbank. 
+https://github.com/ipfs/java-ipfs-http-client 
+org/indicator/SH.MED.PHYS.ZS 
+[2] A. Misra et al., “Diabetes in developing countries,” J. Diabetes, vol. 11, [28] D. Nuñez, I. Agudo, and J. Lopez, “Proxy re-encryption: Analysis of 
+constructions and its application to secure access delegation,” J. Netw. 
+no. 7, pp. 522–539, Jul. 2019. [Online]. Available: https://onlinelibrary. 
+Comput. Appl., vol. 87, pp. 193–209, Jun. 2017. [Online]. Available: 
+wiley.com/doi/10.1111/1753-0407.12913 
+https://linkinghub.elsevier.com/retrieve/pii/S1084804517301078 
+[3] World Health Organization. OMS   |   Maladies   chroniques. 
+Accessed: Apr. 11, 2021. [Online]. Available: https://www.who.int/ [29] D. Nunez, “UMBRAL: A threshold proxy re-encryption scheme,” 
+topics/chronic_diseases/fr/ NuCypher, NICS Lab., Univ. Malaga, Málaga, Spain, Tech. Rep., 2018, 
+[4] Facts & Figures. Accessed: Mar. 19, 2022. [Online]. Available: p. 8. [Online]. Available: https://raw.githubusercontent.com/nucypher/ 
+https://www.idf.org/aboutdiabetes/what-is-diabetes/facts-figures.html umbral-doc/master/umbral-doc.pdf 
+[Type here] 
+ 
